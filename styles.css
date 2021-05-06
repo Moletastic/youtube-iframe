@@ -30,8 +30,13 @@ button {
   flex:1;
   border-radius: 5px;
   border: 1px solid darkgrey;
+  border-bottom: 2px solid;
+  border-right: 2px solid;
   background-color: #f2f2f2;
 }
+
+button:active{border: 1px solid black;}
+
 
 #btn > i {
   padding: 0.1em;
