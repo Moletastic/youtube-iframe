@@ -1,0 +1,36 @@
+body {
+    background-color: snow;
+}
+
+
+
+.container {
+/*border: 1px solid yellow;*/
+padding-bottom: 15em;
+}
+
+.container-form {
+padding: 2%;
+/*border: 1px solid red;*/
+display: flex;
+justify-content: center;
+}
+
+.container-iframe {
+/*border: 1px solid blue;*/
+padding-bottom: 100%;
+
+
+}
+input {
+padding: 3%;
+flex: 3;
+font-size: 1.5em;
+}
+
+button {
+flex:1;
+border-radius: 5px;
+border: 1px solid darkgrey;
+background-color: #f2f2f2;
+}
