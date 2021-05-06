@@ -30,14 +30,12 @@ button {
   flex:1;
   border-radius: 5px;
   border: 1px solid darkgrey;
-  border-bottom: 0.5em solid darkgrey;
-  border-right: 0.5em solid darkgrey;
+  border-bottom: 0.3em solid darkgrey;
   background-color: #f2f2f2;
 }
 
 button:active{
   border-bottom: 0.2em solid darkgrey;
-  border-right: 0.2em solid darkgrey;
 }
 
 button:hover {
