@@ -6,6 +6,8 @@ body {
 .container {
   /*border: 1px solid yellow;*/
   padding-bottom: 15em;
+  padding-right: 5em;
+  padding-left: 5em;
 }
 
 .container-form {
